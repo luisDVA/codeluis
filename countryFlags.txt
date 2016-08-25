@@ -1,0 +1,205 @@
+﻿encoding,Country
+🇬🇧,UK
+🇺🇸,USA
+🇦🇺,Australia
+🇩🇪,Germany
+🇨🇭,Switzerland
+🇮🇹,Italy
+🇫🇷,France
+🇩🇰,Denmark
+🇳🇱,Netherlands
+🇲🇽,Mexico
+🇧🇷,Brazil
+🇵🇱,Poland
+🇮🇪,Ireland
+🇨🇦,Canada
+🇨🇻,Cape Verde
+🇬🇦,Gabon
+🇨🇫,Central African Republic
+🇦🇷,Argentina
+🇮🇳,India
+🇰🇲,Comoros
+🇽🇰,Kosovo
+🇰🇬,Kyrgyzstan
+🇸🇭,St. Helena
+🇵🇳,Pitcairn Islands
+🇻🇺,Vanuatu
+🇦🇹,Austria
+🇯🇵,Japan
+🇳🇴,Norway
+🇵🇹,Portugal
+🇷🇺,Russia
+🇪🇸,Spain
+🇲🇪,Montenegro
+🇹🇯,Tajikistan
+🇧🇿,Belize
+🇫🇴,Faroe Islands
+🇸🇿,Swaziland
+🇱🇻,Latvia
+🇬🇭,Ghana
+🇦🇲,Armenia
+🇩🇯,Djibouti
+🇲🇰,Macedonia
+🇲🇻,Maldives
+🇧🇼,Botswana
+🇭🇷,Croatia
+🇯🇲,Jamaica
+🇭🇳,Honduras
+🇦🇫,Afghanistan
+🇵🇭,Philippines
+🇸🇮,Slovenia
+🇽🇪,England
+🇽🇸,Scotland
+🇽🇼,Wales
+🇭🇺,Hungary
+🇧🇹,Bhutan
+🇧🇩,Bangladesh
+🇨🇲,Cameroon
+🇨🇳,China
+🇻🇳,Vietnam
+🇹🇭,Thailand
+🇳🇿,New Zealand
+🇲🇾,Malaysia
+🇸🇦,Saudi Arabia
+🇾🇪,Yemen
+🇹🇼,Taiwan
+🇹🇳,Tunisia
+🇬🇷,Greece
+🇨🇿,Czech Republic
+🇸🇪,Sweeden
+🇨🇱,Chile
+🇰🇿,Kazakhstan
+🇯🇴,Jordan
+🇰🇼,Kuwait
+🇨🇾,Cyprus
+🇿🇼,Zimbabwe
+🇲🇼,Malawi
+🇿🇦,South Africa
+🇲🇷,Mauritania
+🇮🇱,Israel
+🇦🇶,Antarctica
+🇯🇪,Jersey
+🇮🇴,British Indian Ocean Territory
+🇷🇴,Romania
+🇸🇬,Singapore
+🇭🇰,Hong Kong
+🇵🇰,Pakistan
+🇲🇳,Mongolia
+🇹🇩,Chad
+🇸🇩,Sudan
+🇬🇲,Gambia
+🇹🇷,Turkey
+🇮🇷,Iran
+🇧🇪,Belgium
+🇱🇹,Lithuania
+🇿🇲,Zambia
+🇲🇲,Myanmar
+🇸🇰,Slovakia
+🇮🇩,Indonesia
+🇪🇺,European Union
+🇲🇩,Moldova
+🇱🇺,Luxembourg
+🇨🇴,Colombia
+🇺🇾,Uruguay
+🇻🇪,Venezuela
+🇬🇱,Greenland
+🇮🇸,Iceland
+🇫🇮,Finland
+🇲🇹,Malta
+🇼🇸,Samoa
+🇵🇪,Peru
+🇩🇿,Algeria
+🇹🇬,Togo
+🇹🇹,Trinidad and Tobago
+🇬🇸,South Georgia and South Sandwich Islands
+🇦🇱,Albania
+🇬🇮,Gibraltar
+🇸🇨,Seychelles
+🇬🇩,Grenada
+🇻🇨,St. Vincent & Grenadines
+🇧🇧,Barbados
+🇧🇭,Bahrain
+🇦🇿,Azerbaijan
+🇪🇨,Ecuador
+🇵🇷,Puerto Rico
+🇨🇺,Cuba
+🇺🇬,Uganda
+🇷🇸,Serbia
+🇳🇦,Namibia
+🇺🇦,Ukraine
+🇨🇬,Congo - Brazzaville
+🇸🇻,El Salvador
+🇮🇶,Iraq
+🇵🇾,Paraguay
+🇦🇪,United Arab Emirates
+🇸🇸,South Sudan
+🇪🇷,Eritrea
+🇲🇦,Morocco
+🇱🇰,Sri Lanka
+🇹🇿,Tanzania
+🇳🇵,Nepal
+🇧🇬,Bulgaria
+🇺🇿,Uzbekistan
+🇫🇰,Falkland Islands
+🇲🇨,Monaco
+🇪🇹,Ethiopia
+🇩🇲,Dominica
+🇶🇦,Qatar
+🇧🇲,Bermuda
+🇨🇷,Costa Rica
+🇪🇪,Estonia
+🇬🇹,Guatemala
+🇰🇪,Kenya
+🇳🇮,Nicaragua
+🇵🇬,Papua New Guinea
+🇲🇿,Mozambique
+🇰🇾,Cayman Islands
+🇦🇴,Angola
+🇧🇯,Benin
+🇧🇴,Bolivia
+🇧🇾,Belarus
+🇩🇴,Dominican Republic
+🇲🇬,Madagascar
+🇪🇭,Western Sahara
+🇫🇯,Fiji
+🇲🇺,Mauritius
+🇵🇸,Palestinian Territories
+🇨🇮,Cote DIvoire
+🇭🇲,Heard & McDonald Islands
+🇸🇳,Senegal
+🇷🇼,Rwanda
+🇧🇮,Burundi
+🇱🇸,Lesotho
+🇧🇫,Burkina Faso
+🇸🇱,Sierra Leone
+🇲🇱,Mali
+🇬🇳,Guinea
+🇬🇼,Guinea-Bissau
+🇰🇵,North Korea
+🇰🇭,Cambodia
+🇱🇦,Laos
+🇱🇧,Lebanon
+🇭🇹,Haiti
+🇱🇾,Libya
+🇪🇬,Egypt
+🇵🇦,Panama
+🇦🇩,Andorra
+🇰🇷,South Korea
+🇱🇷,Liberia
+🇧🇳,Brunei
+🇧🇦,Bosnia & Herzegovina
+🇨🇩,Congo-Kinshasa
+🇬🇪,Georgia
+🇸🇴,Somalia
+🇴🇲,Oman
+🇧🇸,Bahamas
+🇬🇾,Flag for Guyana
+🇸🇽,Sint Maarten
+🇬🇵,Guadeloupe
+🇸🇾,Syria
+🇬🇬,Guernsey
+🇮🇲,Isle of Man
+🇳🇬,Nigeria
+🇳🇪,Niger
+🇱🇨,St. Lucia
+🇷🇪,Reunion

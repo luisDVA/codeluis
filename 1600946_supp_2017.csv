@@ -1,0 +1,505 @@
+"Region","Family","Common_name","Genus","Species","Scientific_name","Red_List_status","Population_trend","Mass_kg","Activity","EDGE_status","Publications"
+"Neotropics","AOTIDAE","Azara's Night Monkey","Aotus","azarae","Aotus    azarae","LC","D",1.21,"C",NA,30
+"Neotropics","AOTIDAE","Brumback's Night Monkey","Aotus","brumbacki","Aotus    brumbacki","VU","D",0.67,"N",NA,1
+"Neotropics","AOTIDAE","Gray-legged Night Monkey","Aotus","griseimembra","Aotus    griseimembra","VU","D",0.97,"N",NA,39
+"Neotropics","AOTIDAE","Hernández-Camacho's Night Monkey","Aotus","jorgehernandezi","Aotus    jorgehernandezi","DD","U",NA,"N",NA,NA
+"Neotropics","AOTIDAE","Lemurine Night Monkey","Aotus","lemurinus","Aotus    lemurinus","VU","D",0.9,"N","Y",36
+"Neotropics","AOTIDAE","Andean Night Monkey","Aotus","miconax","Aotus    miconax","VU","D",NA,"N","Y",3
+"Neotropics","AOTIDAE","Ma's Night Monkey","Aotus","nancymaae","Aotus    nancymaae","LC","U",0.79,"N",NA,47
+"Neotropics","AOTIDAE","Black-headed Night Monkey","Aotus","nigriceps","Aotus    nigriceps","LC","U",0.96,"N",NA,5
+"Neotropics","AOTIDAE","Humboldt's Night Monkey","Aotus","trivirgatus","Aotus    trivirgatus","LC","U",0.77,"N",NA,329
+"Neotropics","AOTIDAE","Spix's Night Monkey","Aotus","vociferans","Aotus    vociferans","LC","D",0.7,"N",NA,26
+"Neotropics","AOTIDAE","Panamanian Night Monkey","Aotus","zonalis","Aotus    zonalis","DD","U",0.9,"N",NA,2
+"Neotropics","ATELIDAE","Ursine Red Howler","Alouatta","arctoidea","Alouatta    arctoidea","LC","U",NA,"",NA,NA
+"Neotropics","ATELIDAE","Red-handed Howler","Alouatta","belzebul","Alouatta    belzebul","VU","D",6.4,"",NA,19
+"Neotropics","ATELIDAE","Paraguayan Howler","Alouatta","caraya","Alouatta    caraya","LC","D",5.38,"",NA,152
+"Neotropics","ATELIDAE","Spix's Howler","Alouatta","discolor","Alouatta    discolor","VU","D",NA,"",NA,2
+"Neotropics","ATELIDAE","Brown Howler","Alouatta","guariba","Alouatta    guariba","LC","D",5.36,"",NA,45
+"Neotropics","ATELIDAE","Guianan Red Howler","Alouatta","macconnelli","Alouatta    macconnelli","LC","U",6.29,"",NA,NA
+"Neotropics","ATELIDAE","Amazon Black Howler","Alouatta","nigerrima","Alouatta    nigerrima","LC","U",NA,"",NA,NA
+"Neotropics","ATELIDAE","Mantled Howler","Alouatta","palliata","Alouatta    palliata","LC","U",6.25,"",NA,328
+"Neotropics","ATELIDAE","Central American Black Howler","Alouatta","pigra","Alouatta    pigra","EN","D",8.92,"",NA,161
+"Neotropics","ATELIDAE","Bolivian Red Howler","Alouatta","sara","Alouatta    sara","LC","D",NA,"",NA,1
+"Neotropics","ATELIDAE","Colombian Red Howler","Alouatta","seniculus","Alouatta    seniculus","LC","U",NA,"",NA,102
+"Neotropics","ATELIDAE","Maranhão Red-handed Howler","Alouatta","ululata","Alouatta    ululata","EN","D",NA,"",NA,NA
+"Neotropics","ATELIDAE","White-bellied Spider Monkey","Ateles","belzebuth","Ateles    belzebuth","EN","D",7.77,"",NA,41
+"Neotropics","ATELIDAE","Black Spider Monkey","Ateles","chamek","Ateles    chamek","EN","D",9.37,"",NA,30
+"Neotropics","ATELIDAE","Brown-headed Spider Monkey","Ateles","fusciceps","Ateles    fusciceps","CR","D",9.03,"",NA,19
+"Neotropics","ATELIDAE","Central American Spider Monkey","Ateles","geoffroyi","Ateles    geoffroyi","EN","D",7.54,"",NA,220
+"Neotropics","ATELIDAE","Variegated Spider Monkey","Ateles","hybridus","Ateles    hybridus","CR","D",8.7,"",NA,15
+"Neotropics","ATELIDAE","White-whiskered Spider Monkey","Ateles","marginatus","Ateles    marginatus","EN","D",NA,"",NA,4
+"Neotropics","ATELIDAE","Red-faced Black Spider Monkey","Ateles","paniscus","Ateles    paniscus","VU","D",8.78,"","Y",38
+"Neotropics","ATELIDAE","Southern Muriqui","Brachyteles","arachnoides","Brachyteles    arachnoides","EN","D",8.84,"","Y",75
+"Neotropics","ATELIDAE","Northern Muriqui","Brachyteles","hypoxanthus","Brachyteles    hypoxanthus","CR","D",8.87,"","Y",34
+"Neotropics","ATELIDAE","Gray Woolly Monkey","Lagothrix","cana","Lagothrix    cana","EN","D",8.56,"",NA,10
+"Neotropics","ATELIDAE","Peruvian Yellow-tailed Woolly Monkey","Lagothrix","flavicauda","Lagothrix    flavicauda","CR","D",NA,"","Y",9
+"Neotropics","ATELIDAE","Humboldt's Woolly Monkey","Lagothrix","lagotricha","Lagothrix    lagotricha","VU","D",7.15,"",NA,59
+"Neotropics","ATELIDAE","Colombian Woolly Monkey","Lagothrix","lugens","Lagothrix    lugens","CR","D",6,"",NA,4
+"Neotropics","ATELIDAE","Poeppig's Woolly Monkey","Lagothrix","poeppigii","Lagothrix    poeppigii","VU","D",5.82,"",NA,17
+"Neotropics","CALLITRICHIDAE","Black-crowned Dwarf Marmoset","Callibella","humilis","Callibella    humilis","VU","S",NA,"",NA,3
+"Neotropics","CALLITRICHIDAE","Goeldi's Monkey*","Callimico","goeldii","Callimico    goeldii","VU","D",0.445,"","Y",121
+"Neotropics","CALLITRICHIDAE","Buffy-tufted-ear Marmoset","Callithrix","aurita","Callithrix    aurita","VU","D",0.43,"",NA,15
+"Neotropics","CALLITRICHIDAE","Buffy-headed Marmoset","Callithrix","flaviceps","Callithrix    flaviceps","EN","D",0.41,"",NA,20
+"Neotropics","CALLITRICHIDAE","Geoffroy's Tufted-ear Marmoset","Callithrix","geoffroyi","Callithrix    geoffroyi","LC","S",0.36,"",NA,57
+"Neotropics","CALLITRICHIDAE","Common Marmoset","Callithrix","jacchus","Callithrix    jacchus","LC","S",0.32,"",NA,1636
+"Neotropics","CALLITRICHIDAE","Wied's Black-tufted-ear Marmoset","Callithrix","kuhlii","Callithrix    kuhlii","NT","D",0.38,"",NA,34
+"Neotropics","CALLITRICHIDAE","Black-tufted-ear Marmoset","Callithrix","penicillata","Callithrix    penicillata","LC","I",0.33,"",NA,117
+"Neotropics","CALLITRICHIDAE","Pygmy Marmoset","Cebuella","pygmaea","Cebuella    pygmaea","LC","D",0.12,"",NA,53
+"Neotropics","CALLITRICHIDAE","Cruz Lima’s Saddle-back Tamarin","Leontocebus","cruzlimai","Leontocebus    cruzlimai","LC","U",NA,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Spix's Saddle-back Tamarin","Leontocebus","fuscicollis","Leontocebus    fuscicollis","LC","D",0.35,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Lesson's Saddle-back Tamarin","Leontocebus","fuscus","Leontocebus    fuscus","LC","D",0.37,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Illiger's Saddle-back Tamarin","Leontocebus","illigeri","Leontocebus    illigeri","LC","D",0.29,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Red-mantled Saddle-back Tamarin","Leontocebus","lagonotus","Leontocebus    lagonotus","LC","D",0.37,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Andean Saddle-back Tamarin","Leontocebus","leucogenys","Leontocebus    leucogenys","LC","D",0.37,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Black mantled tamarin","Leontocebus","nigricollis","Leontocebus    nigricollis","LC","D",0.48,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Geoffroy's Saddle-back Tamarin","Leontocebus","nigrifrons","Leontocebus    nigrifrons","LC","D",0.37,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Golden-mantled Saddle-back Tamarin","Leontocebus","tripartitus","Leontocebus    tripartitus","NT","D",NA,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Weddell’s Saddle-back Tamarin","Leontocebus","weddelli","Leontocebus    weddelli","LC","D",0.4,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Black-faced Lion Tamarin","Leontopithecus","caissara","Leontopithecus    caissara","CR","D",0.58,"",NA,8
+"Neotropics","CALLITRICHIDAE","Golden-headed Lion Tamarin","Leontopithecus","chrysomelas","Leontopithecus    chrysomelas","EN","D",0.58,"",NA,51
+"Neotropics","CALLITRICHIDAE","Black Lion Tamarin","Leontopithecus","chrysopygus","Leontopithecus    chrysopygus","EN","D",0.58,"",NA,17
+"Neotropics","CALLITRICHIDAE","Golden Lion Tamarin","Leontopithecus","rosalia","Leontopithecus    rosalia","EN","S",0.61,"",NA,125
+"Neotropics","CALLITRICHIDAE","Rio Acarí Marmoset","Mico","acariensis","Mico    acariensis","DD","U",NA,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Silvery Marmoset","Mico","argentatus","Mico    argentatus","LC","D",0.35,"",NA,6
+"Neotropics","CALLITRICHIDAE","Golden-white Tassel-ear Marmoset","Mico","chrysoleucos","Mico    chrysoleucos","DD","U",NA,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Snethlage's Marmoset","Mico","emiliae","Mico    emiliae","DD","U",0.32,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Santarém Marmoset","Mico","humeralifer","Mico    humeralifer","DD","U",0.47,"",NA,1
+"Neotropics","CALLITRICHIDAE","Rio Aripuanã Marmoset","Mico","intermedius","Mico    intermedius","LC","D",NA,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Golden-white Bare-ear Marmoset","Mico","leucippe","Mico    leucippe","VU","D",NA,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Marca's Marmoset","Mico","marcai","Mico    marcai","DD","U",NA,"",NA,1
+"Neotropics","CALLITRICHIDAE","Maués Marmoset","Mico","mauesi","Mico    mauesi","LC","S",0.37,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Black-tailed Marmoset","Mico","melanurus","Mico    melanurus","LC","U",0.38,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Black-headed Marmoset","Mico","nigriceps","Mico    nigriceps","DD","U",0.32,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Rondon's Marmoset","Mico","rondoni","Mico    rondoni","VU","D",NA,"",NA,1
+"Neotropics","CALLITRICHIDAE","Sateré Marmoset","Mico","saterei","Mico    saterei","LC","U",NA,"",NA,NA
+"Neotropics","CALLITRICHIDAE","Pied Tamarin","Saguinus","bicolor","Saguinus    bicolor","EN","D",0.43,"",NA,14
+"Neotropics","CALLITRICHIDAE","Geoffroy's Tamarin","Saguinus","geoffroyi","Saguinus    geoffroyi","LC","D",0.49,"",NA,36
+"Neotropics","CALLITRICHIDAE","Emperor Tamarin","Saguinus","imperator","Saguinus    imperator","LC","D",0.47,"",NA,18
+"Neotropics","CALLITRICHIDAE","Mottled-face Tamarin","Saguinus","inustus","Saguinus    inustus","LC","S",0.69,"",NA,1
+"Neotropics","CALLITRICHIDAE","Red-bellied Tamarin","Saguinus","labiatus","Saguinus    labiatus","LC","S",0.51,"",NA,62
+"Neotropics","CALLITRICHIDAE","White-footed Tamarin","Saguinus","leucopus","Saguinus    leucopus","EN","D",0.49,"",NA,18
+"Neotropics","CALLITRICHIDAE","Martin's Bare-faced Tamarin","Saguinus","martinsi","Saguinus    martinsi","LC","U",NA,"",NA,6
+"Neotropics","CALLITRICHIDAE","Midas Tamarin","Saguinus","midas","Saguinus    midas","LC","S",0.55,"",NA,29
+"Neotropics","CALLITRICHIDAE","Mustached Tamarin","Saguinus","mystax","Saguinus    mystax","LC","S",0.52,"",NA,122
+"Neotropics","CALLITRICHIDAE","Western Black-handed Tamarin","Saguinus","niger","Saguinus    niger","VU","D",NA,"",NA,13
+"Neotropics","CALLITRICHIDAE","Cotton-top Tamarin","Saguinus","oedipus","Saguinus    oedipus","CR","D",0.41,"",NA,392
+"Neotropics","CALLITRICHIDAE","Eastern Black-handed Tamarin","Saguinus","ursulus","Saguinus    ursulus","NE","U",NA,"",NA,NA
+"Neotropics","CEBIDAE","Ecuadorian White-fronted Capuchin","Cebus","aequatorialis","Cebus    aequatorialis","CR","D",2.74,"",NA,4
+"Neotropics","CEBIDAE","Humboldt's White-fronted Capuchin","Cebus","albifrons","Cebus    albifrons","LC","D",2.74,"",NA,97
+"Neotropics","CEBIDAE","Venezuelan Brown Capuchin","Cebus","brunneus","Cebus    brunneus","LC","U",NA,"",NA,NA
+"Neotropics","CEBIDAE","Colombian White-faced Capuchin","Cebus","capucinus","Cebus    capucinus","LC","U",3.11,"",NA,296
+"Neotropics","CEBIDAE","Río Cesar White-fronted Capuchin","Cebus","cesarae","Cebus    cesarae","DD","D",NA,"",NA,NA
+"Neotropics","CEBIDAE","Shock-headed Capuchin","Cebus","cuscinus","Cebus    cuscinus","NT","D",NA,"",NA,NA
+"Neotropics","CEBIDAE","Panamanian White-faced Capuchin","Cebus","imitator","Cebus    imitator","LC","D",NA,"",NA,3
+"Neotropics","CEBIDAE","Ka'apor Capuchin","Cebus","kaapori","Cebus    kaapori","CR","D",NA,"",NA,3
+"Neotropics","CEBIDAE","Sierra de Perijá White-fronted Capuchin","Cebus","leucocephalus","Cebus    leucocephalus","NE","U",NA,"",NA,NA
+"Neotropics","CEBIDAE","Santa Marta White-fronted Capuchin","Cebus","malitiosus","Cebus    malitiosus","EN","D",NA,"",NA,NA
+"Neotropics","CEBIDAE","Guianan Weeper Capuchin","Cebus","olivaceus","Cebus    olivaceus","LC","U",2.91,"",NA,33
+"Neotropics","CEBIDAE","Spix's White-fronted Capuchin","Cebus","unicolor","Cebus    unicolor","LC","U",NA,"",NA,NA
+"Neotropics","CEBIDAE","Varied White-fronted Capuchin","Cebus","versicolor","Cebus    versicolor","EN","D",NA,"",NA,NA
+"Neotropics","CEBIDAE","Marañón White-fronted Capuchin","Cebus","yuracus","Cebus    yuracus","NE","U",3,"",NA,NA
+"Neotropics","CEBIDAE","Black-capped Squirrel Monkey","Saimiri","boliviensis","Saimiri    boliviensis","LC","D",0.87,"",NA,109
+"Neotropics","CEBIDAE","Humboldt's Squirrel Monkey","Saimiri","cassiquiarensis","Saimiri    cassiquiarensis","LC","U",0.88,"",NA,NA
+"Neotropics","CEBIDAE","Ecuadorian Squirrel Monkey","Saimiri","macrodon","Saimiri    macrodon","LC","D",1.11,"",NA,4
+"Neotropics","CEBIDAE","Central American Squirrel Monkey","Saimiri","oerstedii","Saimiri    oerstedii","VU","D",0.79,"",NA,14
+"Neotropics","CEBIDAE","Guianan Squirrel Monkey","Saimiri","sciureus","Saimiri    sciureus","LC","D",0.81,"",NA,1309
+"Neotropics","CEBIDAE","Golden-backed Squirrel Monkey","Saimiri","ustus","Saimiri    ustus","NT","D",0.85,"",NA,4
+"Neotropics","CEBIDAE","Black-headed Squirrel Monkey","Saimiri","vanzolinii","Saimiri    vanzolinii","VU","U",NA,"",NA,2
+"Neotropics","CEBIDAE","Guianan Brown Capuchin","Sapajus","apella","Sapajus    apella","LC","D",3.09,"",NA,29
+"Neotropics","CEBIDAE","Hooded Capuchin","Sapajus","cay","Sapajus    cay","LC","D",NA,"",NA,2
+"Neotropics","CEBIDAE","Blond Capuchin","Sapajus","flavius","Sapajus    flavius","CR","D",NA,"",NA,5
+"Neotropics","CEBIDAE","Bearded Capuchin","Sapajus","libidinosus","Sapajus    libidinosus","LC","D",2.51,"",NA,28
+"Neotropics","CEBIDAE","Large-headed Capuchin","Sapajus","macrocephalus","Sapajus    macrocephalus","LC","D",NA,"",NA,NA
+"Neotropics","CEBIDAE","Black-horned Capuchin","Sapajus","nigritus","Sapajus    nigritus","NT","D",0.8,"",NA,11
+"Neotropics","CEBIDAE","Crested Capuchin","Sapajus","robustus","Sapajus    robustus","EN","D",NA,"",NA,NA
+"Neotropics","CEBIDAE","Yellow-breasted Capuchin","Sapajus","xanthosternos","Sapajus    xanthosternos","CR","D",2.44,"",NA,5
+"Neotropics","PITHECIIDAE","Bald Uacari","Cacajao","calvus","Cacajao    calvus","VU","D",3.17,"",NA,18
+"Neotropics","PITHECIIDAE","Black-headed Uacari","Cacajao","melanocephalus","Cacajao    melanocephalus","LC","S",2.94,"",NA,19
+"Neotropics","PITHECIIDAE","Spix's Black-headed Uacari","Cacajao","ouakary","Cacajao    ouakary","VU","D",3.8,"",NA,NA
+"Neotropics","PITHECIIDAE","Blond Titi","Callicebus","barbarabrownae","Callicebus    barbarabrownae","CR","D",NA,"","Y",3
+"Neotropics","PITHECIIDAE","Coimbra-Filho's Titi","Callicebus","coimbrai","Callicebus    coimbrai","EN","D",NA,"",NA,8
+"Neotropics","PITHECIIDAE","Southern Bahian Titi","Callicebus","melanochir","Callicebus    melanochir","VU","D",NA,"","Y",6
+"Neotropics","PITHECIIDAE","Black-fronted Titi","Callicebus","nigrifrons","Callicebus    nigrifrons","NT","D",NA,"",NA,11
+"Neotropics","PITHECIIDAE","Masked Titi","Callicebus","personatus","Callicebus    personatus","VU","D",1.25,"","Y",15
+"Neotropics","PITHECIIDAE","Yellow-handed Titi","Cheracebus","lucifer","Cheracebus    lucifer","LC","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","White-chested Titi","Cheracebus","lugens","Cheracebus    lugens","LC","U",1.09,"",NA,8
+"Neotropics","PITHECIIDAE","Medem's Titi","Cheracebus","medemi","Cheracebus    medemi","VU","D",1.16,"",NA,NA
+"Neotropics","PITHECIIDAE","Rio Purus Titi","Cheracebus","purinus","Cheracebus    purinus","LC","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Rio Juruá Collared Titi","Cheracebus","regulus","Cheracebus    regulus","LC","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","White-collared Titi","Cheracebus","torquatus","Cheracebus    torquatus","LC","U",1.25,"",NA,19
+"Neotropics","PITHECIIDAE","White-nosed Bearded Saki","Chiropotes","albinasus","Chiropotes    albinasus","EN","D",2.82,"",NA,3
+"Neotropics","PITHECIIDAE","Rio Negro Beared Saki","Chiropotes","chiropotes","Chiropotes    chiropotes","LC","S",2.74,"",NA,64
+"Neotropics","PITHECIIDAE","Guianan Beared Saki","Chiropotes","sagulatus","Chiropotes    sagulatus","NE","U",3,"",NA,11
+"Neotropics","PITHECIIDAE","Black Bearded Saki","Chiropotes","satanas","Chiropotes    satanas","CR","D",NA,"",NA,32
+"Neotropics","PITHECIIDAE","Uta Hick's Bearded Saki","Chiropotes","utahickae","Chiropotes    utahickae","EN","D",NA,"",NA,2
+"Neotropics","PITHECIIDAE","Equatorial Saki","Pithecia","aequatorialis","Pithecia    aequatorialis","LC","D",2.25,"",NA,NA
+"Neotropics","PITHECIIDAE","Buffy Saki","Pithecia","albicans","Pithecia    albicans","VU","D",3,"","Y",1
+"Neotropics","PITHECIIDAE","Cazuza's Saki","Pithecia","cazuzai","Pithecia    cazuzai","NE","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Golden-faced Saki","Pithecia","chrysocephala","Pithecia    chrysocephala","LC","U",NA,"",NA,3
+"Neotropics","PITHECIIDAE","Hairy Saki","Pithecia","hirsuta","Pithecia    hirsuta","NE","U",NA,"",NA,3
+"Neotropics","PITHECIIDAE","Burnished Saki","Pithecia","inusta","Pithecia    inusta","NE","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Gray's Bald-faced Saki","Pithecia","irrorata","Pithecia    irrorata","LC","U",2.5,"",NA,7
+"Neotropics","PITHECIIDAE","Isabel's Saki","Pithecia","isabela","Pithecia    isabela","NE","U",NA,"",NA,1
+"Neotropics","PITHECIIDAE","Miller's Saki","Pithecia","milleri","Pithecia    milleri","DD","U",NA,"",NA,2
+"Neotropics","PITHECIIDAE","Mittermeier's Tapajós Saki","Pithecia","mittermeieri","Pithecia    mittermeieri","NE","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Monk Saki","Pithecia","monachus","Pithecia    monachus","LC","U",2.5,"",NA,3
+"Neotropics","PITHECIIDAE","Napo Saki","Pithecia","napensis","Pithecia    napensis","NE","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Pissinatti's Bald-faced Saki","Pithecia","pissinattii","Pithecia    pissinattii","NE","U",NA,"",NA,1
+"Neotropics","PITHECIIDAE","White-faced saki","Pithecia","pithecia","Pithecia    pithecia","LC","U",1.5,"",NA,112
+"Neotropics","PITHECIIDAE","Rylands' Bald-faced Saki","Pithecia","rylandsi","Pithecia    rylandsi","NE","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Vanzolini’s Bald-faced Saki","Pithecia","vanzolinii","Pithecia    vanzolinii","DD","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Madidi Titi","Plecturocebus","aureipalatii","Plecturocebus    aureipalatii","LC","S",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Lake Baptista Titi","Plecturocebus","baptista","Plecturocebus    baptista","LC","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Prince Bernhard's Titi","Plecturocebus","bernhardi","Plecturocebus    bernhardi","LC","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Brown Titi","Plecturocebus","brunneus","Plecturocebus    brunneus","LC","U",0.83,"",NA,8
+"Neotropics","PITHECIIDAE","Chestnut-bellied Titi","Plecturocebus","caligatus","Plecturocebus    caligatus","LC","U",0.88,"",NA,NA
+"Neotropics","PITHECIIDAE","Caquetá Titi","Plecturocebus","caquetensis","Plecturocebus    caquetensis","CR","D",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Ashy Titi","Plecturocebus","cinerascens","Plecturocebus    cinerascens","LC","U",NA,"",NA,1
+"Neotropics","PITHECIIDAE","Coppery Titi","Plecturocebus","cupreus","Plecturocebus    cupreus","LC","U",1.07,"",NA,69
+"Neotropics","PITHECIIDAE","Red-crowned Titi","Plecturocebus","discolor","Plecturocebus    discolor","LC","U",1.01,"",NA,8
+"Neotropics","PITHECIIDAE","White-eared Titi","Plecturocebus","donacophilus","Plecturocebus    donacophilus","LC","D",0.95,"",NA,11
+"Neotropics","PITHECIIDAE","Hoffmann's Titi","Plecturocebus","hoffmannsi","Plecturocebus    hoffmannsi","LC","U",1.06,"",NA,NA
+"Neotropics","PITHECIIDAE","Milton´s titi monkey","Plecturocebus","miltoni","Plecturocebus    miltoni","NE","U",1.34,"",NA,NA
+"Neotropics","PITHECIIDAE","Rio Beni Titi","Plecturocebus","modestus","Plecturocebus    modestus","EN","D",NA,"",NA,1
+"Neotropics","PITHECIIDAE","Red-bellied Titi","Plecturocebus","moloch","Plecturocebus    moloch","LC","U",0.99,"",NA,61
+"Neotropics","PITHECIIDAE","San Martín Titi","Plecturocebus","oenanthe","Plecturocebus    oenanthe","CR","D",NA,"",NA,11
+"Neotropics","PITHECIIDAE","Olalla's Titi","Plecturocebus","olallae","Plecturocebus    olallae","EN","D",NA,"",NA,1
+"Neotropics","PITHECIIDAE","Ornate Titi","Plecturocebus","ornatus","Plecturocebus    ornatus","VU","D",1.17,"",NA,NA
+"Neotropics","PITHECIIDAE","Pale Titi","Plecturocebus","pallescens","Plecturocebus    pallescens","LC","S",NA,"",NA,1
+"Neotropics","PITHECIIDAE","Stephen Nash's Titi","Plecturocebus","stephennashi","Plecturocebus    stephennashi","DD","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Toppin’s Titi","Plecturocebus","toppini","Plecturocebus    toppini","NE","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Urubamba Brown Titi","Plecturocebus","urubambensis","Plecturocebus    urubambensis","NE","U",NA,"",NA,NA
+"Neotropics","PITHECIIDAE","Vieira's Titi","Plecturocebus","vieirai","Plecturocebus    vieirai","NE","U",0.96,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Allen's Swamp Monkey","Allenopithecus","nigroviridis","Allenopithecus    nigroviridis","LC","U",4.77,"",NA,7
+"mlAfrica","CERCOPITHECIDAE","L'Hoest's Monkey","Allochrocebus","lhoesti","Allochrocebus    lhoesti","VU","D",6,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Preuss's Monkey","Allochrocebus","preussi","Allochrocebus    preussi","EN","D",NA,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Sun-tailed Monkey","Allochrocebus","solatus","Allochrocebus    solatus","VU","U",5,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Agile Mangabey","Cercocebus","agilis","Cercocebus    agilis","LC","S",7.67,"",NA,11
+"mlAfrica","CERCOPITHECIDAE","Sooty Mangabey","Cercocebus","atys","Cercocebus    atys","NT","D",8.4,"",NA,104
+"mlAfrica","CERCOPITHECIDAE","Golden-bellied Mangabey","Cercocebus","chrysogaster","Cercocebus    chrysogaster","DD","D",NA,"",NA,11
+"mlAfrica","CERCOPITHECIDAE","Tana River Mangabey","Cercocebus","galeritus","Cercocebus    galeritus","EN","D",7.44,"",NA,33
+"mlAfrica","CERCOPITHECIDAE","White-naped Mangabey","Cercocebus","lunulatus","Cercocebus    lunulatus","EN","D",7,"",NA,19
+"mlAfrica","CERCOPITHECIDAE","Sanje River Mangabey","Cercocebus","sanjei","Cercocebus    sanjei","EN","D",NA,"",NA,18
+"mlAfrica","CERCOPITHECIDAE","Red-capped Mangabey","Cercocebus","torquatus","Cercocebus    torquatus","VU","D",8.2,"",NA,84
+"mlAfrica","CERCOPITHECIDAE","Syke's Monkey","Cercopithecus","albogularis","Cercopithecus    albogularis","LC","U",5,"",NA,13
+"mlAfrica","CERCOPITHECIDAE","Red-tailed Monkey","Cercopithecus","ascanius","Cercopithecus    ascanius","LC","U",3.43,"",NA,43
+"mlAfrica","CERCOPITHECIDAE","Campbell's Monkey","Cercopithecus","campbelli","Cercopithecus    campbelli","LC","U",3.6,"",NA,25
+"mlAfrica","CERCOPITHECIDAE","Moustached Monkey","Cercopithecus","cephus","Cercopithecus    cephus","LC","U",3.45,"",NA,9
+"mlAfrica","CERCOPITHECIDAE","Dent's Monkey","Cercopithecus","denti","Cercopithecus    denti","LC","D",4,"",NA,2
+"mlAfrica","CERCOPITHECIDAE","Diana Monkey","Cercopithecus","diana","Cercopithecus    diana","VU","D",4.5,"",NA,28
+"mlAfrica","CERCOPITHECIDAE","Silver Monkey","Cercopithecus","doggetti","Cercopithecus    doggetti","LC","D",NA,"",NA,3
+"mlAfrica","CERCOPITHECIDAE","Dryas Monkey","Cercopithecus","dryas","Cercopithecus    dryas","CR","U",3,"",NA,1
+"mlAfrica","CERCOPITHECIDAE","Red-bellied Monkey","Cercopithecus","erythrogaster","Cercopithecus    erythrogaster","VU","D",3.25,"",NA,6
+"mlAfrica","CERCOPITHECIDAE","Red-eared Monkey","Cercopithecus","erythrotis","Cercopithecus    erythrotis","VU","D",3.58,"3",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Owl-faced Monkey","Cercopithecus","hamlyni","Cercopithecus    hamlyni","VU","D",4.5,"","Y",5
+"mlAfrica","CERCOPITHECIDAE","Virungas Golden Monkey","Cercopithecus","kandti","Cercopithecus    kandti","EN","D",6,"",NA,2
+"mlAfrica","CERCOPITHECIDAE","Lesula","Cercopithecus","lomamiensis","Cercopithecus    lomamiensis","NE","U",5,"",NA,1
+"mlAfrica","CERCOPITHECIDAE","Lowe's Monkey","Cercopithecus","lowei","Cercopithecus    lowei","LC","U",4,"",NA,5
+"mlAfrica","CERCOPITHECIDAE","Blue Monkey","Cercopithecus","mitis","Cercopithecus    mitis","LC","D",5.62,"",NA,103
+"mlAfrica","CERCOPITHECIDAE","Mona Monkey","Cercopithecus","mona","Cercopithecus    mona","LC","U",3.18,"",NA,34
+"mlAfrica","CERCOPITHECIDAE","De Brazza's Monkey","Cercopithecus","neglectus","Cercopithecus    neglectus","LC","U",5.37,"",NA,24
+"mlAfrica","CERCOPITHECIDAE","Putty-nosed Monkey","Cercopithecus","nictitans","Cercopithecus    nictitans","LC","D",5.29,"",NA,19
+"mlAfrica","CERCOPITHECIDAE","Spot-nosed Monkey","Cercopithecus","petaurista","Cercopithecus    petaurista","LC","U",NA,"",NA,8
+"mlAfrica","CERCOPITHECIDAE","Crowned Monkey","Cercopithecus","pogonias","Cercopithecus    pogonias","LC","D",3.75,"",NA,6
+"mlAfrica","CERCOPITHECIDAE","Roloway Monkey","Cercopithecus","roloway","Cercopithecus    roloway","EN","D",4,"",NA,1
+"mlAfrica","CERCOPITHECIDAE","Sclater's Monkey","Cercopithecus","sclateri","Cercopithecus    sclateri","VU","D",3,"",NA,5
+"mlAfrica","CERCOPITHECIDAE","Wolf's Monkey","Cercopithecus","wolfi","Cercopithecus    wolfi","LC","D",3.5,"",NA,6
+"mlAfrica","CERCOPITHECIDAE","Grivet Monkey","Chlorocebus","aethiops","Chlorocebus    aethiops","LC","S",4.2,"",NA,122
+"mlAfrica","CERCOPITHECIDAE","Malbrouck Monkey","Chlorocebus","cynosuros","Chlorocebus    cynosuros","LC","S",NA,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Bale Monkey","Chlorocebus","djamdjamensis","Chlorocebus    djamdjamensis","VU","D",NA,"",NA,2
+"mlAfrica","CERCOPITHECIDAE","Vervet Monkey","Chlorocebus","pygerythrus","Chlorocebus    pygerythrus","LC","S",NA,"",NA,14
+"mlAfrica","CERCOPITHECIDAE","Green Monkey","Chlorocebus","sabaeus","Chlorocebus    sabaeus","LC","S",NA,"",NA,47
+"mlAfrica","CERCOPITHECIDAE","Tantalus Monkey","Chlorocebus","tantalus","Chlorocebus    tantalus","LC","S",NA,"",NA,3
+"mlAfrica","CERCOPITHECIDAE","Angolan Colobus","Colobus","angolensis","Colobus    angolensis","LC","U",8.96,"",NA,18
+"mlAfrica","CERCOPITHECIDAE","Guereza","Colobus","guereza","Colobus    guereza","LC","U",8.59,"",NA,86
+"mlAfrica","CERCOPITHECIDAE","King Colobus","Colobus","polykomos","Colobus    polykomos","VU","U",8.6,"",NA,22
+"mlAfrica","CERCOPITHECIDAE","Black Colobus","Colobus","satanas","Colobus    satanas","VU","D",8.51,"",NA,10
+"mlAfrica","CERCOPITHECIDAE","White-thighed Colobus","Colobus","vellerosus","Colobus    vellerosus","VU","U",7.68,"",NA,50
+"mlAfrica","CERCOPITHECIDAE","Patas Monkey","Erythrocebus","patas","Erythrocebus    patas","LC","D",8,"",NA,257
+"mlAfrica","CERCOPITHECIDAE","Gray-cheeked Mangabey","Lophocebus","albigena","Lophocebus    albigena","LC","D",7.56,"",NA,30
+"mlAfrica","CERCOPITHECIDAE","Northern Black Crested Mangabey","Lophocebus","aterrimus","Lophocebus    aterrimus","NT","D",6.75,"",NA,5
+"mlAfrica","CERCOPITHECIDAE","Southern Back Crested Mangabey","Lophocebus","opdenboschi","Lophocebus    opdenboschi","DD","D",6,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Rusty-mantled Mangabey","Lophocebus","osmani","Lophocebus    osmani","LC","U",6,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Johnston's Mangabey","Lophocebus","johnstoni","Lophocebus    johnstoni","LC","U",6,"",NA,1
+"mlAfrica","CERCOPITHECIDAE","Ugandan Crested Mangabey","Lophocebus","ugandae","Lophocebus    ugandae","NE","U",6,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Barbary Macaque","Macaca","sylvanus","Macaca    sylvanus","EN","D",13,"","Y",209
+"mlAfrica","CERCOPITHECIDAE","Drill","Mandrillus","leucophaeus","Mandrillus    leucophaeus","EN","U",NA,"",NA,36
+"mlAfrica","CERCOPITHECIDAE","Mandrill","Mandrillus","sphinx","Mandrillus    sphinx","VU","U",19.87,"",NA,126
+"mlAfrica","CERCOPITHECIDAE","Northern Talapoin Monkey","Miopithecus","ogouensis","Miopithecus    ogouensis","LC","S",1.34,"",NA,1
+"mlAfrica","CERCOPITHECIDAE","Southern Talapoin Monkey","Miopithecus","talapoin","Miopithecus    talapoin","LC","U",1.25,"",NA,39
+"mlAfrica","CERCOPITHECIDAE","Olive Baboon","Papio","anubis","Papio    anubis","LC","I",18.4,"",NA,648
+"mlAfrica","CERCOPITHECIDAE","Yellow Baboon","Papio","cynocephalus","Papio    cynocephalus","LC","S",18.3,"",NA,584
+"mlAfrica","CERCOPITHECIDAE","Hamadryas Baboon","Papio","hamadryas","Papio    hamadryas","LC","I",15.03,"",NA,565
+"mlAfrica","CERCOPITHECIDAE","Kinda Baboon","Papio","kindae","Papio    kindae","LC","S",10,"",NA,14
+"mlAfrica","CERCOPITHECIDAE","Guinea Baboon","Papio","papio","Papio    papio","NT","U",20,"",NA,5487
+"mlAfrica","CERCOPITHECIDAE","Chacma Baboon","Papio","ursinus","Papio    ursinus","LC","S",21.17,"",NA,344
+"mlAfrica","CERCOPITHECIDAE","Upper Guinea Red Colobus","Piliocolobus","badius","Piliocolobus    badius","EN","D",9,"",NA,10
+"mlAfrica","CERCOPITHECIDAE","Bouvier's Red Colobus","Piliocolobus","bouvieri","Piliocolobus    bouvieri","CR","U",NA,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Niger Delta Red Colobus","Piliocolobus","epieni","Piliocolobus    epieni","CR","D",NA,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Foa's Red Colobus","Piliocolobus","foai","Piliocolobus    foai","NE","U",9,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Udzungwa Red Colobus","Piliocolobus","gordonorum","Piliocolobus    gordonorum","EN","D",NA,"",NA,2
+"mlAfrica","CERCOPITHECIDAE","Zanzibar Red Colobus","Piliocolobus","kirkiii","Piliocolobus    kirkiii","EN","D",8,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Lang's Red Colobus","Piliocolobus","langi","Piliocolobus    langi","NE","U",8,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Oustalet's Red Colobus","Piliocolobus","oustaleti","Piliocolobus    oustaleti","LC","D",9,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Lomami Red Colobus","Piliocolobus","parmentieri","Piliocolobus    parmentieri","NE","U",8,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Pennant's Red Colobus","Piliocolobus","pennantii","Piliocolobus    pennantii","EN","D",7,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Preuss's Red Colobus","Piliocolobus","preussi","Piliocolobus    preussi","CR","D",5,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Tana River Red Colobus","Piliocolobus","rufomitratus","Piliocolobus    rufomitratus","EN","D",9,"",NA,2
+"mlAfrica","CERCOPITHECIDAE","Semliki Red Colobus","Piliocolobus","semlikiensis","Piliocolobus    semlikiensis","NE","U",NA,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Ashy Red Colobus","Piliocolobus","tephrosceles","Piliocolobus    tephrosceles","EN","D",9,"",NA,4
+"mlAfrica","CERCOPITHECIDAE","Tshuapa Red Colobus","Piliocolobus","tholloni","Piliocolobus    tholloni","NT","D",NA,"",NA,NA
+"mlAfrica","CERCOPITHECIDAE","Temminick's Red Colobus","Piliocolobus","temminckii","Piliocolobus    temminckii","EN","D",NA,"",NA,2
+"mlAfrica","CERCOPITHECIDAE","Miss Waldron's Red Colobus","Piliocolobus","waldronae","Piliocolobus    waldronae","CR","D",6,"",NA,1
+"mlAfrica","CERCOPITHECIDAE","Olive Colobus","Procolobus","verus","Procolobus    verus","NT","U",4.43,"",NA,10
+"mlAfrica","CERCOPITHECIDAE","Kipunji","Rungwecebus","kipunji","Rungwecebus    kipunji","CR","D",13,"",NA,15
+"mlAfrica","CERCOPITHECIDAE","Gelada","Theropithecus","gelada","Theropithecus    gelada","LC","D",20.05,"",NA,98
+"mlAfrica","GALAGIDAE","Southern Needle-clawed Galago","Euoticus","elegantulus","Euoticus    elegantulus","LC","S",0.3,"N",NA,3
+"mlAfrica","GALAGIDAE","Northern Needle-clawed Galago","Euoticus","pallidus","Euoticus    pallidus","LC","U",0.19,"N",NA,NA
+"mlAfrica","GALAGIDAE","Somali Lesser Galago","Galago","gallarum","Galago    gallarum","LC","S",0.2,"N",NA,NA
+"mlAfrica","GALAGIDAE","Spectacled Lesser Galago","Galago","matschiei","Galago    matschiei","LC","D",0.21,"N",NA,6
+"mlAfrica","GALAGIDAE","Southern Lesser Galago","Galago","moholi","Galago    moholi","LC","S",0.18,"N",NA,41
+"mlAfrica","GALAGIDAE","Northern Lesser Galago","Galago","senegalensis","Galago    senegalensis","LC","S",0.21,"N",NA,214
+"mlAfrica","GALAGIDAE","Kenya Coast Dwarf Galago","Galagoides","cocos","Galagoides    cocos","LC","S",0.14,"N",NA,NA
+"mlAfrica","GALAGIDAE","Demidoff's Dwarf Galago","Galagoides","demidovii","Galagoides    demidovii","LC","S",0.05,"N",NA,9
+"mlAfrica","GALAGIDAE","Mozambique Dwarf Galago","Galagoides","granti","Galagoides    granti","LC","S",0.13,"N",NA,2
+"mlAfrica","GALAGIDAE","Mountain Dwarf Galago","Galagoides","orinus","Galagoides    orinus","NT","D",NA,"N",NA,NA
+"mlAfrica","GALAGIDAE","Rondo Dwarf Galago","Galagoides","rondoensis","Galagoides    rondoensis","CR","D",0.07,"N","Y",NA
+"mlAfrica","GALAGIDAE","Thomas's Dwarf Galago","Galagoides","thomasi","Galagoides    thomasi","LC","S",0.12,"N",NA,2
+"mlAfrica","GALAGIDAE","Tanzania Coast Dwarf Galago","Galagoides","zanzibaricus","Galagoides    zanzibaricus","LC","S",0.14,"N",NA,NA
+"mlAfrica","GALAGIDAE","Thick-tailed Greater Galago","Otolemur","crassicaudatus","Otolemur    crassicaudatus","LC","S",1.15,"N",NA,17
+"mlAfrica","GALAGIDAE","Garnett's Greater Galago","Otolemur","garnettii","Otolemur    garnettii","LC","S",0.76,"N",NA,48
+"mlAfrica","GALAGIDAE","Bioko Squirrel Galago","Sciurocheirus","alleni","Sciurocheirus    alleni","EN","U",0.44,"N",NA,NA
+"mlAfrica","GALAGIDAE","Cross River Squirrel Galago","Sciurocheirus","cameronensis","Sciurocheirus    cameronensis","LC","U",NA,"",NA,1
+"mlAfrica","GALAGIDAE","Gabon Squirrel Galago","Sciurocheirus","gabonensis","Sciurocheirus    gabonensis","LC","U",0.26,"N",NA,NA
+"mlAfrica","GALAGIDAE","Makandé squirrel galago","Sciurocheirus","makandensis","Sciurocheirus    makandensis","NE","U",NA,"N",NA,NA
+"mlAfrica","HOMINIDAE","Eastern Gorilla","Gorilla","beringei","Gorilla    beringei","EN","D",130,"","Y",111
+"mlAfrica","HOMINIDAE","Western Gorilla","Gorilla","gorilla","Gorilla    gorilla","CR","D",120.95,"","Y",2357
+"mlAfrica","HOMINIDAE","Bonobo","Pan","paniscus","Pan    paniscus","EN","D",38.6,"","Y",472
+"mlAfrica","HOMINIDAE","Chimpanzee","Pan","troglodytes","Pan    troglodytes","EN","D",52.75,"","Y",1953
+"mlAfrica","LORISIDAE","?Golden Angwantibo","Arctocebus","aureus","Arctocebus  aureus","LC","U",0.21,"N",NA,NA
+"mlAfrica","LORISIDAE","Calabar Angwantibo","Arctocebus","calabarensis","Arctocebus  calabarensis","LC","U",0.31,"N",NA,3
+"mlAfrica","LORISIDAE","Milne-Edwards's Potto","Perodicticus","edwardsi","Perodicticus  edwardsi","LC","S",1,"N",NA,1
+"mlAfrica","LORISIDAE","East African Potto","Perodicticus","ibeanus","Perodicticus  ibeanus","LC","S",1,"N",NA,1
+"mlAfrica","LORISIDAE","West African Potto","Perodicticus","potto","Perodicticus  potto","LC","S",0.83,"N",NA,61
+"Madagascar","CHEIROGALEIDAE","Hairy-eared Dwarf Lemur","Allocebus","trichotis","Allocebus    trichotis","VU","D",0.09,"N",NA,8
+"Madagascar","CHEIROGALEIDAE","Montagne d'Ambre Dwarf Lemur","Cheirogaleus","andvsabini","Cheirogaleus    andvsabini","NE","U",NA,"",NA,NA
+"Madagascar","CHEIROGALEIDAE","Crossley's Dwarf Lemur","Cheirogaleus","crossleyi","Cheirogaleus    crossleyi","DD","D",NA,"N",NA,1
+"Madagascar","CHEIROGALEIDAE","Lavasoa Dwarf lemur","Cheirogaleus","lavasoensis","Cheirogaleus    lavasoensis","NE","U",NA,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Greater Dwarf Lemur","Cheirogaleus","major","Cheirogaleus    major","DD","D",0.4,"N",NA,5
+"Madagascar","CHEIROGALEIDAE","Fat-tailed Dwarf Lemur","Cheirogaleus","medius","Cheirogaleus    medius","LC","D",0.28,"N",NA,43
+"Madagascar","CHEIROGALEIDAE","Lesser Iron-gray Dwarf Lemur","Cheirogaleus","minusculus","Cheirogaleus    minusculus","DD","D",NA,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Sibree's Dwarf Lemur","Cheirogaleus","sibreei","Cheirogaleus    sibreei","CR","D",0.27,"N",NA,1
+"Madagascar","CHEIROGALEIDAE","Thomas's Dwarf Lemur","Cheirogaleus","thomasi","Cheirogaleus    thomasi","NE","U",NA,"",NA,NA
+"Madagascar","CHEIROGALEIDAE","Montagne d'Ambre Mouse Lemur","Microcebus","arnholdi","Microcebus    arnholdi","EN","D",0.05,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Madame Berthe's Mouse Lemur","Microcebus","berthae","Microcebus    berthae","EN","D",0.03,"N","Y",6
+"Madagascar","CHEIROGALEIDAE","Bongolava Mouse Lemur","Microcebus","bongolavensis","Microcebus    bongolavensis","EN","D",0.06,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Ambarijeby Mouse Lemur","Microcebus","danfossi","Microcebus    danfossi","EN","D",0.06,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Gerp's Mouse Lemur","Microcebus","gerpi","Microcebus    gerpi","CR","D",NA,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Gray-brown Mouse Lemur","Microcebus","griseorufus","Microcebus    griseorufus","LC","D",0.06,"N",NA,14
+"Madagascar","CHEIROGALEIDAE","Jolly's Mouse Lemur","Microcebus","jollyae","Microcebus    jollyae","EN","D",0.06,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Goodman's Mouse Lemur","Microcebus","lehilahytsara","Microcebus    lehilahytsara","VU","D",0.05,"N",NA,2
+"Madagascar","CHEIROGALEIDAE","Anjiahely Mouse Lemur","Microcebus","macarthurii","Microcebus    macarthurii","EN","D",0.05,"N",NA,2
+"Madagascar","CHEIROGALEIDAE","Nosy Be Mouse Lemur","Microcebus","mamiratra","Microcebus    mamiratra","CR","D",0.08,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Margot Marsh's Mouse Lemur","Microcebus","margotmarshae","Microcebus    margotmarshae","EN","D",0.05,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Marohita Mouse Lemur","Microcebus","marohita","Microcebus    marohita","CR","D",NA,"",NA,NA
+"Madagascar","CHEIROGALEIDAE","?Mittermeier's Mouse Lemur","Microcebus","mittermeieri","Microcebus  mittermeieri","EN","D",0.04,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Gray Mouse Lemur","Microcebus","murinus","Microcebus  murinus","LC","D",0.06,"N",NA,299
+"Madagascar","CHEIROGALEIDAE","Peters's Mouse Lemur","Microcebus","myoxinus","Microcebus  myoxinus","VU","D",0.03,"N",NA,4
+"Madagascar","CHEIROGALEIDAE","Golden-brown Mouse Lemur","Microcebus","ravelobensis","Microcebus  ravelobensis","EN","D",0.07,"N","Y",23
+"Madagascar","CHEIROGALEIDAE","Rufous Mouse Lemur","Microcebus","rufus","Microcebus  rufus","VU","D",0.05,"N",NA,36
+"Madagascar","CHEIROGALEIDAE","Sambirano Mouse Lemur","Microcebus","sambiranensis","Microcebus  sambiranensis","EN","D",0.04,"N","Y",NA
+"Madagascar","CHEIROGALEIDAE","Simmons's Mouse Lemur","Microcebus","simmonsi","Microcebus  simmonsi","EN","D",0.08,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Anosi Mouse lemur","Microcebus","tanosi","Microcebus  tanosi","NE","U",NA,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Tavaratra Mouse Lemur","Microcebus","tavaratra","Microcebus  tavaratra","VU","D",0.06,"N","Y",NA
+"Madagascar","CHEIROGALEIDAE","Coquerel's Giant Mouse Lemur","Mirza","coquereli","Mirza  coquereli","EN","D",0.32,"N",NA,7
+"Madagascar","CHEIROGALEIDAE","Northern Giant Mouse Lemur","Mirza","zaza","Mirza  zaza","EN","D",0.29,"N",NA,2
+"Madagascar","CHEIROGALEIDAE","Montagne D' Ambre Fork-marked Lemur","Phaner","electromontis","Phaner  electromontis","EN","D",0.39,"N","Y",NA
+"Madagascar","CHEIROGALEIDAE","Masoala Fork-marked Lemur","Phaner","furcifer","Phaner  furcifer","VU","D",0.46,"N",NA,14
+"Madagascar","CHEIROGALEIDAE","Pale Fork-marked Lemur","Phaner","pallescens","Phaner  pallescens","EN","D",0.33,"N",NA,NA
+"Madagascar","CHEIROGALEIDAE","Sambirano Fork-marked Lemur","Phaner","parienti","Phaner  parienti","EN","D",0.36,"N","Y",NA
+"Madagascar","DAUBENTONIIDAE","Aye-aye","Daubentonia","madagascariensis","Daubentonia  madagascariensis","EN","D",2.56,"N",NA,1
+"Madagascar","INDRIIDAE","Betsileo Woolly Lemur","Avahi","betsileo","Avahi  betsileo","EN","D",1.05,"N",NA,NA
+"Madagascar","INDRIIDAE","Bemaraha Woolly Lemur","Avahi","cleesei","Avahi  cleesei","EN","D",1.03,"N",NA,NA
+"Madagascar","INDRIIDAE","Eastern Woolly Lemur","Avahi","laniger","Avahi  laniger","VU","D",1.21,"N",NA,9
+"Madagascar","INDRIIDAE","Southern Woolly Lemur","Avahi","meridionalis","Avahi  meridionalis","EN","D",1.18,"N",NA,1
+"Madagascar","INDRIIDAE","Masoala Woolly Lemur","Avahi","mooreorum","Avahi  mooreorum","EN","D",0.92,"N",NA,NA
+"Madagascar","INDRIIDAE","Western Woolly Lemur","Avahi","occidentalis","Avahi  occidentalis","EN","D",0.8,"N","Y",9
+"Madagascar","INDRIIDAE","Peyrieras's Woolly Lemur","Avahi","peyrierasi","Avahi  peyrierasi","VU","D",1.05,"N",NA,NA
+"Madagascar","INDRIIDAE","Manombo Woolly Lemur","Avahi","ramanantsoavanai","Avahi  ramanantsoavanai","VU","D",1.05,"N",NA,NA
+"Madagascar","INDRIIDAE","Sambirano Woolly Lemur","Avahi","unicolor","Avahi  unicolor","EN","D",0.85,"N",NA,1
+"Madagascar","INDRIIDAE","Indri","Indri","indri","Indri  indri","CR","D",6.34,"","Y",32
+"Madagascar","INDRIIDAE","Silky Sifaka","Propithecus","candidus","Propithecus  candidus","CR","D",5.75,"","",7
+"Madagascar","INDRIIDAE","Coquerel's Sifaka","Propithecus","coquereli","Propithecus  coquereli","EN","D",3.73,"","Y",29
+"Madagascar","INDRIIDAE","Crowned Sifaka","Propithecus","coronatus","Propithecus  coronatus","EN","D",3.9,"","",5
+"Madagascar","INDRIIDAE","Decken's Sifaka","Propithecus","deckenii","Propithecus  deckenii","EN","D",3.53,"","Y",NA
+"Madagascar","INDRIIDAE","Diademed Sifaka","Propithecus","diadema","Propithecus  diadema","CR","D",6.13,"","Y",61
+"Madagascar","INDRIIDAE","Milne-Edwards's Sifaka","Propithecus","edwardsi","Propithecus  edwardsi","EN","D",5.68,"","Y",65
+"Madagascar","INDRIIDAE","Perrier's Sifaka","Propithecus","perrieri","Propithecus  perrieri","CR","D",4.65,"","Y",3
+"Madagascar","INDRIIDAE","Tattersall's Sifaka","Propithecus","tattersalli","Propithecus  tattersalli","CR","D",3.67,"","Y",11
+"Madagascar","INDRIIDAE","Verreaux's Sifaka","Propithecus","verreauxi","Propithecus  verreauxi","EN","D",2.96,"","Y",161
+"Madagascar","LEMURIDAE","White-fronted Brown Lemur","Eulemur","albifrons","Eulemur  albifrons","EN","D",2.34,"C",NA,13
+"Madagascar","LEMURIDAE","White-collared Brown Lemur","Eulemur","cinereiceps","Eulemur  cinereiceps","CR","D",2.25,"C",NA,8
+"Madagascar","LEMURIDAE","Red-collared Brown Lemur","Eulemur","collaris","Eulemur  collaris","EN","D",2.38,"C",NA,20
+"Madagascar","LEMURIDAE","Crowned Lemur","Eulemur","coronatus","Eulemur  coronatus","EN","D",1.18,"C","Y",7
+"Madagascar","LEMURIDAE","Blue-eyed Black Lemur","Eulemur","flavifrons","Eulemur  flavifrons","CR","D",1.85,"C",NA,18
+"Madagascar","LEMURIDAE","Brown Lemur","Eulemur","fulvus","Eulemur  fulvus","NT","D",2.29,"C",NA,135
+"Madagascar","LEMURIDAE","?Black Lemur","Eulemur","macaco","Eulemur  macaco","VU","D",2.39,"C","Y",54
+"Madagascar","LEMURIDAE","Mongoose Lemur","Eulemur","mongoz","Eulemur  mongoz","CR","D",1.21,"C","Y",16
+"Madagascar","LEMURIDAE","Red-bellied Lemur","Eulemur","rubriventer","Eulemur  rubriventer","VU","D",1.96,"C","Y",28
+"Madagascar","LEMURIDAE","Red-fronted Brown Lemur","Eulemur","rufifrons","Eulemur  rufifrons","NT","D",2.25,"C",NA,9
+"Madagascar","LEMURIDAE","Rufous Brown Lemur","Eulemur","rufus","Eulemur  rufus","VU","D",2.22,"C",NA,56
+"Madagascar","LEMURIDAE","Sanford's Brown Lemur","Eulemur","sanfordi","Eulemur  sanfordi","EN","D",1.85,"C",NA,2
+"Madagascar","LEMURIDAE","Lac Alaotra Bamboo Lemur","Hapalemur","alaotrensis","Hapalemur  alaotrensis","CR","D",1.24,"C","Y",60
+"Madagascar","LEMURIDAE","Golden Bamboo Lemur","Hapalemur","aureus","Hapalemur  aureus","CR","D",1.73,"","Y",3
+"Madagascar","LEMURIDAE","Gray Bamboo Lemur","Hapalemur","griseus","Hapalemur  griseus","VU","D",0.71,"","Y",60
+"Madagascar","LEMURIDAE","Southern Bamboo Lemur","Hapalemur","meridionalis","Hapalemur  meridionalis","VU","D",0.86,"C",NA,4
+"Madagascar","LEMURIDAE","Northern Bamboo Lemur","Hapalemur","occidentalis","Hapalemur  occidentalis","VU","D",1.02,"C","Y",2
+"Madagascar","LEMURIDAE","Ring-tailed Lemur","Lemur","catta","Lemur  catta","EN","D",2.21,"C",NA,441
+"Madagascar","LEMURIDAE","Greater Bamboo Lemur","Prolemur","simus","Prolemur  simus","CR","D",1.46,"C","Y",7
+"Madagascar","LEMURIDAE","Red Ruffed Lemur","Varecia","rubra","Varecia  rubra","CR","D",3.58,"","Y",40
+"Madagascar","LEMURIDAE","Black-and-white Ruffed Lemur","Varecia","variegata","Varecia  variegata","CR","D",3.58,"","Y",135
+"Madagascar","LEPILEMURIDAE","Antafia Sportive Lemur","Lepilemur","aeeclis","Lepilemur  aeeclis","VU","D",0.73,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Tsiombikibo Sportive Lemur","Lepilemur","ahmansonorum","Lepilemur  ahmansonorum","EN","D",0.61,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Ankarana Sportive Lemur","Lepilemur","ankaranensis","Lepilemur  ankaranensis","EN","D",0.77,"N","Y",NA
+"Madagascar","LEPILEMURIDAE","Betsileo Sportive Lemur","Lepilemur","betsileo","Lepilemur  betsileo","EN","D",1.15,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Gray's Sportive Lemur","Lepilemur","dorsalis","Lepilemur  dorsalis","VU","D",0.87,"N",NA,3
+"Madagascar","LEPILEMURIDAE","Milne-Edwards's Sportive Lemur","Lepilemur","edwardsi","Lepilemur  edwardsi","EN","D",0.93,"N","Y",17
+"Madagascar","LEPILEMURIDAE","Andohahela Sportive Lemur","Lepilemur","fleuretae","Lepilemur  fleuretae","CR","D",0.89,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Anjiamangirana Sportive Lemur","Lepilemur","grewcockorum","Lepilemur  grewcockorum","EN","D",0.78,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Mananara-Nord Sportive Lemur","Lepilemur","hollandorum","Lepilemur  hollandorum","EN","D",1,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Zombitse Sportive Lemur","Lepilemur","hubbardi","Lepilemur  hubbardi","EN","D",0.99,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Manombo Sportive Lemur","Lepilemur","jamesorum","Lepilemur  jamesorum","CR","D",0.78,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","White-footed Sportive Lemur","Lepilemur","leucopus","Lepilemur  leucopus","EN","D",0.61,"N",NA,9
+"Madagascar","LEPILEMURIDAE","Small-toothed Sportive Lemur","Lepilemur","microdon","Lepilemur  microdon","EN","D",0.97,"N",NA,3
+"Madagascar","LEPILEMURIDAE","Daraina Sportive Lemur","Lepilemur","milanoii","Lepilemur  milanoii","EN","D",0.72,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Mittermeier's Sportive Lemur","Lepilemur","mittermeieri","Lepilemur  mittermeieri","EN","D",0.73,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Weasel Sportive Lemur","Lepilemur","mustelinus","Lepilemur  mustelinus","NT","D",1,"N",NA,9
+"Madagascar","LEPILEMURIDAE","Ambodimahabibo Sportive Lemur","Lepilemur","otto","Lepilemur  otto","EN","D",0.86,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Petter's Sportive Lemur","Lepilemur","petteri","Lepilemur  petteri","VU","D",0.63,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Bemaraha Sportive Lemur","Lepilemur","randrianasoloi","Lepilemur  randrianasoloi","EN","D",0.79,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Red-tailed Sportive Lemur","Lepilemur","ruficaudatus","Lepilemur  ruficaudatus","VU","D",0.8,"N",NA,15
+"Madagascar","LEPILEMURIDAE","Sahamalaza Sportive Lemur","Lepilemur","sahamalazensis","Lepilemur  sahamalazensis","CR","D",0.7,"N",NA,6
+"Madagascar","LEPILEMURIDAE","Masoala Sportive Lemur","Lepilemur","scottorum","Lepilemur  scottorum","EN","D",0.88,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Seal's Sportive Lemur","Lepilemur","seali","Lepilemur  seali","VU","D",0.95,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Sahafary Sportive Lemur","Lepilemur","septentrionalis","Lepilemur  septentrionalis","CR","D",0.68,"N","Y",9
+"Madagascar","LEPILEMURIDAE","Nosy Be Sportive Lemur","Lepilemur","tymerlachsoni","Lepilemur  tymerlachsoni","CR","D",0.88,"N",NA,NA
+"Madagascar","LEPILEMURIDAE","Wright's Sportive Lemur","Lepilemur","wrightae","Lepilemur  wrightae","EN","D",1.03,"N",NA,NA
+"Asia","CERCOPITHECIDAE","Stump-tailed Macaque","Macaca","arctoides","Macaca    arctoides","VU","D",10.3,"","Y",419
+"Asia","CERCOPITHECIDAE","Assamese Macaque","Macaca","assamensis","Macaca    assamensis","NT","D",9.1,"",NA,48
+"Asia","CERCOPITHECIDAE","Taiwanese Macaque","Macaca","cyclopis","Macaca    cyclopis","LC","S",5.45,"",NA,94
+"Asia","CERCOPITHECIDAE","Long-tailed Macaque","Macaca","fascicularis","Macaca    fascicularis","LC","D",4.5,"",NA,6171
+"Asia","CERCOPITHECIDAE","Japanese Macaque","Macaca","fuscata","Macaca    fuscata","LC","S",9.5,"",NA,1045
+"Asia","CERCOPITHECIDAE","Heck's Macaque","Macaca","hecki","Macaca    hecki","VU","D",9,"",NA,6
+"Asia","CERCOPITHECIDAE","Northern Pig-tailed Macaque","Macaca","leonina","Macaca    leonina","VU","D",6.11,"",NA,24
+"Asia","CERCOPITHECIDAE","White-cheeked Macaque","Macaca","leucogenys","Macaca    leucogenys","NE","U",NA,"",NA,1
+"Asia","CERCOPITHECIDAE","Moor Macaque","Macaca","maura","Macaca    maura","EN","D",7.9,"",NA,7
+"Asia","CERCOPITHECIDAE","Rhesus Macaque","Macaca","mulatta","Macaca    mulatta","LC","U",9.9,"",NA,11300
+"Asia","CERCOPITHECIDAE","Arunachal Macaque","Macaca","munzala","Macaca    munzala","EN","D",NA,"",NA,9
+"Asia","CERCOPITHECIDAE","Sunda Pig-tailed Macaque","Macaca","nemestrina","Macaca    nemestrina","VU","D",8.85,"",NA,953
+"Asia","CERCOPITHECIDAE","Crested Macaque","Macaca","nigra","Macaca    nigra","CR","D",7.7,"",NA,116
+"Asia","CERCOPITHECIDAE","Gorontalo Macaque","Macaca","nigrescens","Macaca    nigrescens","VU","D",NA,"",NA,3
+"Asia","CERCOPITHECIDAE","Booted Macaque","Macaca","ochreata","Macaca    ochreata","VU","D",3.95,"",NA,5
+"Asia","CERCOPITHECIDAE","Pagai Macaque","Macaca","pagensis","Macaca    pagensis","CR","D",4.5,"",NA,1
+"Asia","CERCOPITHECIDAE","Bonnet Macaque","Macaca","radiata","Macaca    radiata","LC","D",5.3,"",NA,425
+"Asia","CERCOPITHECIDAE","Siberut Macaque","Macaca","siberu","Macaca    siberu","VU","D",NA,"",NA,2
+"Asia","CERCOPITHECIDAE","Lion-tailed Macaque","Macaca","silenus","Macaca    silenus","EN","D",7.5,"",NA,121
+"Asia","CERCOPITHECIDAE","Toque Macaque","Macaca","sinica","Macaca    sinica","EN","D",4.45,"",NA,34
+"Asia","CERCOPITHECIDAE","Tibetan Macaque","Macaca","thibetana","Macaca    thibetana","NT","D",15.55,"",NA,111
+"Asia","CERCOPITHECIDAE","Tonkean Macaque","Macaca","tonkeana","Macaca    tonkeana","VU","D",11.95,"",NA,60
+"Asia","CERCOPITHECIDAE","Proboscis Monkey","Nasalis","larvatus","Nasalis    larvatus","EN","D",14.7,"",NA,65
+"Asia","CERCOPITHECIDAE","Black-and-white Langur","Presbytis","bicolor","Presbytis    bicolor","DD","D",6,"",NA,NA
+"Asia","CERCOPITHECIDAE","Miller's Langur","Presbytis","canicrus","Presbytis    canicrus","EN","D",6,"",NA,2
+"Asia","CERCOPITHECIDAE","Cross-marked Langur","Presbytis","chrysomelas","Presbytis    chrysomelas","CR","D",6.72,"",NA,2
+"Asia","CERCOPITHECIDAE","Javan Langur","Presbytis","comata","Presbytis    comata","EN","D",6.7,"",NA,3
+"Asia","CERCOPITHECIDAE","Banded Langur","Presbytis","femoralis","Presbytis    femoralis","NT","D",6.55,"",NA,1
+"Asia","CERCOPITHECIDAE","White-fronted Langur","Presbytis","frontata","Presbytis    frontata","VU","D",5.61,"",NA,NA
+"Asia","CERCOPITHECIDAE","Hose's Langur","Presbytis","hosei","Presbytis    hosei","DD","D",6.28,"",NA,6
+"Asia","CERCOPITHECIDAE","Black-crested Sumatran Langur","Presbytis","melalophos","Presbytis    melalophos","NT","D",6.33,"",NA,19
+"Asia","CERCOPITHECIDAE","Mitered Langur","Presbytis","mitrata","Presbytis    mitrata","EN","D",5.8,"",NA,NA
+"Asia","CERCOPITHECIDAE","Natuna Islands Langur","Presbytis","natunae","Presbytis    natunae","VU","D",48.88,"",NA,2
+"Asia","CERCOPITHECIDAE","Mentawai Langur","Presbytis","potenziani","Presbytis    potenziani","CR","D",6.17,"",NA,7
+"Asia","CERCOPITHECIDAE","Maroon Langur","Presbytis","rubicunda","Presbytis    rubicunda","LC","D",6.18,"",NA,13
+"Asia","CERCOPITHECIDAE","Sabah Grizzled Langur","Presbytis","sabana","Presbytis    sabana","EN","D",6,"",NA,1
+"Asia","CERCOPITHECIDAE","Pale-thighed Langur","Presbytis","siamensis","Presbytis    siamensis","NT","D",6.12,"",NA,NA
+"Asia","CERCOPITHECIDAE","Siberut Langur","Presbytis","siberu","Presbytis    siberu","EN","D",6.4,"",NA,NA
+"Asia","CERCOPITHECIDAE","Black Sumatran Langur","Presbytis","sumatra","Presbytis    sumatra","EN","D",6,"",NA,8
+"Asia","CERCOPITHECIDAE","Thomas's Langur","Presbytis","thomasi","Presbytis    thomasi","VU","D",6.77,"",NA,15
+"Asia","CERCOPITHECIDAE","Grey-shanked Douc","Pygathrix","cinerea","Pygathrix    cinerea","CR","D",NA,"",NA,2
+"Asia","CERCOPITHECIDAE","Red-shanked Douc","Pygathrix","nemaeus","Pygathrix    nemaeus","EN","D",9.53,"",NA,37
+"Asia","CERCOPITHECIDAE","Black-shanked Douc","Pygathrix","nigripes","Pygathrix    nigripes","EN","D",9.88,"",NA,2
+"Asia","CERCOPITHECIDAE","Tonkin Snub-nosed Monkey","Rhinopithecus","avunculus","Rhinopithecus    avunculus","CR","D",11.38,"",NA,6
+"Asia","CERCOPITHECIDAE","Yunnan Snub-nosed Monkey","Rhinopithecus","bieti","Rhinopithecus    bieti","EN","D",14.47,"",NA,107
+"Asia","CERCOPITHECIDAE","Guizhou Snub-nosed Monkey","Rhinopithecus","brelichi","Rhinopithecus    brelichi","EN","D",14.5,"",NA,18
+"Asia","CERCOPITHECIDAE","Golden Snub-nosed Monkey","Rhinopithecus","roxellana","Rhinopithecus    roxellana","EN","D",NA,"",NA,139
+"Asia","CERCOPITHECIDAE","Stryker's Snub-nosed Monkey","Rhinopithecus","strykeri","Rhinopithecus    strykeri","CR","D",NA,"",NA,5
+"Asia","CERCOPITHECIDAE","Chamba Sacred Langur","Semnopithecus","ajax","Semnopithecus    ajax","EN","D",16.33,"",NA,3
+"Asia","CERCOPITHECIDAE","Bengal Sacred Langur","Semnopithecus","entellus","Semnopithecus    entellus","LC","D",12.31,"",NA,42
+"Asia","CERCOPITHECIDAE","Terai Sacred Langur","Semnopithecus","hector","Semnopithecus    hector","NT","D",15.2,"",NA,NA
+"Asia","CERCOPITHECIDAE","Malabar Sacred Langur","Semnopithecus","hypoleucos","Semnopithecus    hypoleucos","VU","D",NA,"",NA,NA
+"Asia","CERCOPITHECIDAE","Nilgiri Langur","Semnopithecus","johnii","Semnopithecus    johnii","VU","D",11.45,"",NA,1
+"Asia","CERCOPITHECIDAE","Tufted Gray Langur","Semnopithecus","priam","Semnopithecus    priam","NT","D",12.81,"",NA,1
+"Asia","CERCOPITHECIDAE","Nepal Sacred Langur","Semnopithecus","schistaceus","Semnopithecus    schistaceus","LC","D",12.81,"",NA,6
+"Asia","CERCOPITHECIDAE","Purple-faced Langur","Semnopithecus","vetulus","Semnopithecus    vetulus","EN","D",6.61,"",NA,9
+"Asia","CERCOPITHECIDAE","Pig-tailed Langur","Simias","concolor","Simias    concolor","CR","D",8.02,"",NA,26
+"Asia","CERCOPITHECIDAE","East Javan Langur","Trachypithecus","auratus","Trachypithecus    auratus","VU","D",6.25,"",NA,12
+"Asia","CERCOPITHECIDAE","Tenasserim Langur","Trachypithecus","barbei","Trachypithecus    barbei","DD","D",NA,"",NA,1
+"Asia","CERCOPITHECIDAE","Indochinese Gray Langur","Trachypithecus","crepusculus","Trachypithecus    crepusculus","EN","D",6.7,"",NA,NA
+"Asia","CERCOPITHECIDAE","Silvered Langur","Trachypithecus","cristatus","Trachypithecus    cristatus","NT","D",6.25,"",NA,13
+"Asia","CERCOPITHECIDAE","Delacour's Langur","Trachypithecus","delacouri","Trachypithecus    delacouri","CR","D",NA,"",NA,9
+"Asia","CERCOPITHECIDAE","Black Langur","Trachypithecus","ebenus","Trachypithecus    ebenus","EN","D",10.3,"",NA,2
+"Asia","CERCOPITHECIDAE","Francois's Langur","Trachypithecus","francoisi","Trachypithecus    francoisi","EN","D",7.89,"",NA,39
+"Asia","CERCOPITHECIDAE","Golden Langur","Trachypithecus","geei","Trachypithecus    geei","EN","D",10.23,"",NA,16
+"Asia","CERCOPITHECIDAE","Germain's Langur","Trachypithecus","germaini","Trachypithecus    germaini","EN","D",8.83,"",NA,2
+"Asia","CERCOPITHECIDAE","Hatinh Langur","Trachypithecus","hatinhensis","Trachypithecus    hatinhensis","EN","D",NA,"",NA,5
+"Asia","CERCOPITHECIDAE","Laos Langur","Trachypithecus","laotum","Trachypithecus    laotum","VU","D",2,"",NA,NA
+"Asia","CERCOPITHECIDAE","White-headed Langur","Trachypithecus","leucocephalus","Trachypithecus    leucocephalus","CR","D",8,"",NA,22
+"Asia","CERCOPITHECIDAE","Annamese Langur","Trachypithecus","margarita","Trachypithecus    margarita","EN","D",NA,"",NA,NA
+"Asia","CERCOPITHECIDAE","West Javan Langur","Trachypithecus","mauritius","Trachypithecus    mauritius","VU","D",NA,"",NA,3
+"Asia","CERCOPITHECIDAE","Dusky Langur","Trachypithecus","obscurus","Trachypithecus    obscurus","NT","D",7.13,"",NA,7
+"Asia","CERCOPITHECIDAE","Phayre's Langur","Trachypithecus","phayrei","Trachypithecus    phayrei","EN","D",6.86,"",NA,33
+"Asia","CERCOPITHECIDAE","Capped Langur","Trachypithecus","pileatus","Trachypithecus    pileatus","VU","D",11.46,"",NA,12
+"Asia","CERCOPITHECIDAE","Cat Ba Langur","Trachypithecus","poliocephalus","Trachypithecus    poliocephalus","CR","D",NA,"",NA,2
+"Asia","CERCOPITHECIDAE","Selangor Silvery Langur","Trachypithecus","selangorensis","Trachypithecus    selangorensis","NE","U",NA,"",NA,NA
+"Asia","CERCOPITHECIDAE","Shortridge's Langur","Trachypithecus","shortridgei","Trachypithecus    shortridgei","EN","D",NA,"",NA,2
+"Asia","HOMINIDAE","Sumatran Orangutan","Pongo","abelii","Pongo    abelii","CR","D",57.15,"","Y",100
+"Asia","HOMINIDAE","Bornean Orangutan","Pongo","pygmaeus","Pongo    pygmaeus","EN","D",56.75,"","Y",430
+"Asia","HYLOBATIDAE","Western Hoolock Gibbon","Hoolock","hoolock","Hoolock    hoolock","EN","D",6.88,"","Y",70
+"Asia","HYLOBATIDAE","Eastern Hoolock Gibbon","Hoolock","leuconedys","Hoolock    leuconedys","VU","D",NA,"",NA,14
+"Asia","HYLOBATIDAE","Abbott's Gray Gibbon","Hylobates","abbotti","Hylobates    abbotti","EN","D",5,"",NA,NA
+"Asia","HYLOBATIDAE","Agile Gibbon","Hylobates","agilis","Hylobates    agilis","EN","D",5.85,"",NA,33
+"Asia","HYLOBATIDAE","Bornean White-bearded Gibbon","Hylobates","albibarbis","Hylobates    albibarbis","EN","D",NA,"",NA,16
+"Asia","HYLOBATIDAE","East Bornean Gray Gibbon","Hylobates","funereus","Hylobates    funereus","EN","D",NA,"",NA,NA
+"Asia","HYLOBATIDAE","Kloss's Gibbon","Hylobates","klossii","Hylobates    klossii","EN","D",5.8,"",NA,20
+"Asia","HYLOBATIDAE","Lar Gibbon","Hylobates","lar","Hylobates    lar","EN","D",5.62,"",NA,183
+"Asia","HYLOBATIDAE","Moloch Gibbon","Hylobates","moloch","Hylobates    moloch","EN","D",6.42,"",NA,35
+"Asia","HYLOBATIDAE","Müller's Gibbon","Hylobates","muelleri","Hylobates    muelleri","EN","D",5.53,"",NA,14
+"Asia","HYLOBATIDAE","Pileated Gibbon","Hylobates","pileatus","Hylobates    pileatus","EN","D",5.47,"",NA,22
+"Asia","HYLOBATIDAE","Northern Yellow-cheeked Crested Gibbon","Nomascus","annamensis","Nomascus    annamensis","NE","U",7,"",NA,NA
+"Asia","HYLOBATIDAE","Western Black Crested Gibbon","Nomascus","concolor","Nomascus    concolor","CR","D",7.71,"",NA,34
+"Asia","HYLOBATIDAE","Southern Yellow-cheeked Crested Gibbon","Nomascus","gabriellae","Nomascus    gabriellae","EN","D",5.8,"","Y",5
+"Asia","HYLOBATIDAE","Hainan Crested Gibbon","Nomascus","hainanus","Nomascus    hainanus","CR","S",NA,"",NA,7
+"Asia","HYLOBATIDAE","Northern White-cheeked Crested Gibbon","Nomascus","leucogenys","Nomascus    leucogenys","CR","D",5.7,"",NA,16
+"Asia","HYLOBATIDAE","Eastern Black Crested Gibbon","Nomascus","nasutus","Nomascus    nasutus","CR","D",NA,"",NA,13
+"Asia","HYLOBATIDAE","Southern White-cheeked Crested Gibbon","Nomascus","siki","Nomascus    siki","EN","D",NA,"","Y",NA
+"Asia","HYLOBATIDAE","Siamang","Symphalangus","syndactylus","Symphalangus    syndactylus","EN","D",11.3,"","Y",41
+"Asia","LORISIDAE","Gray Slender Loris","Loris","lydekkerianus","Loris    lydekkerianus","LC","D",NA,"N",NA,37
+"Asia","LORISIDAE","Red Slender Loris","Loris","tardigradus","Loris    tardigradus","EN","D",0.27,"N","Y",69
+"Asia","LORISIDAE","Bangka Slow Loris","Nycticebus","bancanus","Nycticebus    bancanus","NE","U",NA,"N",NA,1
+"Asia","LORISIDAE","Bengal Slow Loris","Nycticebus","bengalensis","Nycticebus    bengalensis","VU","D",1.21,"N","Y",10
+"Asia","LORISIDAE","Bornean Slow Loris","Nycticebus","borneanus","Nycticebus    borneanus","NE","U",NA,"N",NA,1
+"Asia","LORISIDAE","Sunda Slow Loris","Nycticebus","coucang","Nycticebus    coucang","VU","D",0.65,"N","Y",106
+"Asia","LORISIDAE","Javan Slow Loris","Nycticebus","javanicus","Nycticebus    javanicus","CR","D",NA,"N",NA,13
+"Asia","LORISIDAE","Kayan River Slow Loris","Nycticebus","kayan","Nycticebus    kayan","NE","U",NA,"N",NA,3
+"Asia","LORISIDAE","Philippine Slow Loris","Nycticebus","menagensis","Nycticebus    menagensis","VU","D",0.28,"N",NA,4
+"Asia","LORISIDAE","Pygmy Slow Loris","Nycticebus","pygmaeus","Nycticebus    pygmaeus","VU","D",0.36,"N","Y",36
+"Asia","TARSIIDAE","Philippine Tarsier","Carlito","syrichta","Carlito    syrichta","NT","D",0.13,"N",NA,1
+"Asia","TARSIIDAE","Western Tarsier","Cephalopachus","bancanus","Cephalopachus    bancanus","VU","D",0.12,"N","Y",NA
+"Asia","TARSIIDAE","Dian's Tarsier","Tarsius","dentatus","Tarsius    dentatus","VU","D",0.11,"N","Y",NA
+"Asia","TARSIIDAE","Makassar Tarsier","Tarsius","fuscus","Tarsius    fuscus","NE","U",0.13,"N",NA,NA
+"Asia","TARSIIDAE","Lariang Tarsier","Tarsius","lariang","Tarsius    lariang","DD","D",0.11,"N",NA,NA
+"Asia","TARSIIDAE","Peleng Tarsier","Tarsius","pelengensis","Tarsius    pelengensis","EN","D",NA,"N","Y",NA
+"Asia","TARSIIDAE","Sulawesi Mountain Tarsier","Tarsius","pumilus","Tarsius    pumilus","DD","D",0.05,"N",NA,7
+"Asia","TARSIIDAE","Great Sangihe Tarsier","Tarsius","sangirensis","Tarsius    sangirensis","EN","D",0.14,"N","Y",11
+"Asia","TARSIIDAE","Selayar Tarsier","Tarsius","tarsier","Tarsius    tarsier","VU","D",0.1,"N","Y",54
+"Asia","TARSIIDAE","Siau Island Tarsier","Tarsius","tumpara","Tarsius    tumpara","CR","D",NA,"N",NA,NA
+"Asia","TARSIIDAE","Wallace's Tarsier","Tarsius","wallacei","Tarsius    wallacei","DD","D",0.11,"N",NA,1

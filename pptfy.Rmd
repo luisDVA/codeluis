@@ -1,0 +1,42 @@
+---
+title: "pptx version of pdf slides"
+author: "R Markdown script by Luis Verde Arregoitia (preliminary)"
+date: ""
+output: powerpoint_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(pdftools)
+library(fs)
+library(purrr)
+```
+
+```{r, include=FALSE, echo=FALSE}
+# path to PDF of interest
+PDFpath <- "pres_flat.pdf"
+# splitting the pdf
+dir_create("pages_images")
+# NULL arg to read all pages
+pdf_convert(PDFpath,format = "png",pages = NULL, dpi=300, verbose = FALSE, filenames = sprintf("pages_images/slide_%02d",1:pdf_info(PDFpath)$pages))
+```
+
+
+
+```{r}
+slide_imgs <- list.files(path="pages_images",full.names = TRUE)
+# from an SO answer by Yihui Xie
+# about looping through a directory
+build_tags <- function(img_list){
+  paste0('![](', img_list, ')\n\n', sep = '')
+}
+
+```
+
+
+```{r, results="asis"}
+cat(noquote(map_chr(slide_imgs,build_tags)))
+```
+
+
+
